@@ -5090,11 +5090,12 @@ Created using IcoMoon - icomoon.io
 
 /* Experience Style */
 .cc-experience .cc-experience-header {
-  padding-top: 50px;
+  padding-top: 40px;
   padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 20px;
   text-align: center;
-  color: #fff;
-  text-transform: uppercase; }
+  color: #fff;}
 
 /* Education Style */
 .cc-education .h5 {
@@ -5103,6 +5104,8 @@ Created using IcoMoon - icomoon.io
 .cc-education .cc-education-header {
   padding-top: 35px;
   padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 15px;
   text-align: center;
   color: #fff; }
 
